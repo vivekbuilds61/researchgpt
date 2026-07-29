@@ -1,0 +1,6 @@
+arxiv
+requests
+pymupdf
+python-dotenv
+pandas
+tqdm
